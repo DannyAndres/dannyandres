@@ -29,7 +29,7 @@
   <img alt="Tailwind CSS" src="https://img.shields.io/static/v1?style=flat-square&logo=Tailwind+CSS&logoColor=white&message=Tailwind+CSS&label=" />
   <img alt="CSS3" src="https://img.shields.io/static/v1?style=flat-square&logo=CSS3&logoColor=white&message=CSS3&label=" />
   <img alt="Flutter" src="https://img.shields.io/static/v1?style=flat-square&logo=Flutter&logoColor=white&message=Flutter&label=" />
-  <img alt="TensorFlow" src="https://img.shields.io/static/v1?style=flat-square&logo=TensorFlow&logoColor=white&message=TensorFlow&label=" />
+  <img alt="TensorFlow" src="https://img.shields.io/static/v1?style=flat-square&logo=TensorFlow&logoColor=white&message=TensorFlow&color=e0861f&label=" />
 </p>
 <h3>Open source projects</h3>
 <table>
