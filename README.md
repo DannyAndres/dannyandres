@@ -20,15 +20,15 @@
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/static/v1?style=flat-square&logo=MySQL&logoColor=white&message=MySQL&label=" />
+  <img alt="MySQL" src="https://img.shields.io/static/v1?style=flat-square&logo=MySQL&logoColor=white&message=MySQL&color=005c84&label=" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Laravel" src="https://img.shields.io/static/v1?style=flat-square&logo=Laravel&logoColor=white&message=Laravel&label=" />
-  <img alt="Vuejs" src="https://img.shields.io/static/v1?style=flat-square&logo=Vue.js&logoColor=white&message=Vuejs&label=" />
-  <img alt="Spring Boot" src="https://img.shields.io/static/v1?style=flat-square&logo=Spring+Boot&logoColor=white&message=Spring+Boot&label=" />
-  <img alt="Postman" src="https://img.shields.io/static/v1?style=flat-square&logo=Postman&logoColor=white&message=Postman&label=" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/static/v1?style=flat-square&logo=Tailwind+CSS&logoColor=white&message=Tailwind+CSS&label=" />
-  <img alt="CSS3" src="https://img.shields.io/static/v1?style=flat-square&logo=CSS3&logoColor=white&message=CSS3&label=" />
-  <img alt="Flutter" src="https://img.shields.io/static/v1?style=flat-square&logo=Flutter&logoColor=white&message=Flutter&label=" />
+  <img alt="Laravel" src="https://img.shields.io/static/v1?style=flat-square&logo=Laravel&logoColor=white&message=Laravel&color=f22b1e&label=" />
+  <img alt="Vuejs" src="https://img.shields.io/static/v1?style=flat-square&logo=Vue.js&logoColor=white&message=Vuejs&color=3daf7c&label=" />
+  <img alt="Spring Boot" src="https://img.shields.io/static/v1?style=flat-square&logo=Spring+Boot&logoColor=white&message=Spring+Boot&color=67aa3c&label=" />
+  <img alt="Postman" src="https://img.shields.io/static/v1?style=flat-square&logo=Postman&logoColor=white&message=Postman&color=e66637&label=" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/static/v1?style=flat-square&logo=Tailwind+CSS&logoColor=white&message=Tailwind+CSS&color=07adca&label=" />
+  <img alt="CSS3" src="https://img.shields.io/static/v1?style=flat-square&logo=CSS3&logoColor=white&message=CSS3&color=008ec6&label=" />
+  <img alt="Flutter" src="https://img.shields.io/static/v1?style=flat-square&logo=Flutter&logoColor=white&message=Flutter&color=1db2f0&label=" />
   <img alt="TensorFlow" src="https://img.shields.io/static/v1?style=flat-square&logo=TensorFlow&logoColor=white&message=TensorFlow&color=e0861f&label=" />
 </p>
 <h3>Open source projects</h3>
