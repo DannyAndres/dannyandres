@@ -9,6 +9,7 @@ module.exports = {
       // Build your palette here
       transparent: 'transparent',
       current: 'currentColor',
+      navbar: '#161b22',
       gray: colors.coolGray,
       green: colors.teal,
       red: colors.red,

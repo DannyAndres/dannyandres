@@ -54,13 +54,14 @@
                 hover:bg-green-700
                 md:py-4 md:text-lg md:px-10
               "
+              @click.prevent="openModal()"
             >
               Get started
             </a>
           </div>
           <div class="mt-3 sm:mt-0 sm:ml-3">
             <a
-              href="#"
+              href="mailto:danny.aguilar@usach.cl"
               class="
                 w-full
                 flex
@@ -78,7 +79,20 @@
                 md:py-4 md:text-lg md:px-10
               "
             >
-              Live demo
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                class="h-4 w-4 mr-2"
+                viewBox="0 0 20 20"
+                fill="currentColor"
+              >
+                <path
+                  d="M2.003 5.884L10 9.882l7.997-3.998A2 2 0 0016 4H4a2 2 0 00-1.997 1.884z"
+                />
+                <path
+                  d="M18 8.118l-8 4-8-4V14a2 2 0 002 2h12a2 2 0 002-2V8.118z"
+                />
+              </svg>
+              Email me
             </a>
           </div>
         </div>
@@ -132,6 +146,7 @@
           <img
             width="100%"
             height="100%"
+            class="full-size-image"
             src="https://avatars.githubusercontent.com/u/19177489?v=4"
             alt="Danny"
           />
@@ -143,6 +158,7 @@
     <tech />
     <photos />
   </div>
+  <modal-wip :open="isOpen" @openModal="openModal" @closeModal="closeModal" />
 </template>
 
 <script lang="ts">
@@ -151,6 +167,8 @@ import Projects from '@/views/welcome/Projects.vue';
 import Motivations from '@/views/welcome/Motivations.vue';
 import Code from '@/views/welcome/Code.vue';
 import Photos from '@/views/welcome/Photos.vue';
+import ModalWip from '@/components/ModalWip.vue';
+import { ref } from 'vue';
 
 export default defineComponent({
   name: 'Welcome',
@@ -159,9 +177,22 @@ export default defineComponent({
     motivations: Motivations,
     tech: Code,
     photos: Photos,
+    'modal-wip': ModalWip,
   },
   setup() {
-    return {};
+    let isOpen = ref(false);
+
+    return {
+      isOpen,
+      closeModal(value: boolean) {
+        console.log('close: ' + value);
+        isOpen.value = false;
+      },
+      openModal(value: boolean) {
+        console.log('open: ' + value);
+        isOpen.value = true;
+      },
+    };
   },
 });
 </script>
@@ -176,5 +207,9 @@ export default defineComponent({
 }
 .bg-green-leaves {
   background: #030504;
+}
+.full-size-image {
+  width: 100% !important;
+  height: 100% !important;
 }
 </style>

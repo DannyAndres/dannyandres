@@ -79,7 +79,7 @@ export default defineComponent({
 body,
 html {
   margin: 0px;
-  background-color: #0d1117;
+  background-color: #0d1117 !important;
   min-height: 100vh;
 }
 .main-component {
