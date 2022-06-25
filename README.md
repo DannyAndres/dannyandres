@@ -73,7 +73,6 @@
   <li><a href="https://tmpfb.splashthat.com/"><b>Technical Mentorship Programme Mentee at Facebook</b></a><br/><i>Improving Big O notation on interview algorithms, solving problems and leetcode questions.</i></li>
   <li><a href="https://docs.soliditylang.org/en/v0.8.10/"><b>Using solidity to create ERC20 tokens and web3 apps</b></a><br/><i>Smart contracts to create tokens, functions, web3 apps and leverage the use of the BlockChain to move from normal Databases into a chain of blocks that has the code and data.</i></li>
 </ul>
-<br/>
 <h3>Where to find me</h3>
 <p><a href="https://github.com/dannyandres" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://www.linkedin.com/in/danny-andres/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
